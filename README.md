@@ -35,5 +35,6 @@ The `.pbix` file includes:
 - Visual storytelling and dashboard design
 - Business insight derivation from raw data
 
+![image](https://github.com/user-attachments/assets/09080f0e-2bf1-4802-8bc9-5302c55243c0)
 
 
