@@ -35,19 +35,5 @@ The `.pbix` file includes:
 - Visual storytelling and dashboard design
 - Business insight derivation from raw data
 
-## 📸 Sample Visuals
 
-*You can upload screenshots of your dashboard here to visually showcase the project.*
-
-## 📌 How to Use
-
-1. Open `ecommerce sales.pbix` using Power BI Desktop.
-2. Load the CSVs if not already embedded.
-3. Explore the visuals and gain insights!
-
----
-
-## 📬 Contact
-
-For any queries or collaboration ideas, feel free to reach out!
 
